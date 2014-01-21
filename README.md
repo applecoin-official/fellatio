@@ -1,7 +1,6 @@
 Fellatio integration/staging tree
 ================================
 
-http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
@@ -15,7 +14,6 @@ out collectively by the network. Fellatio is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Fellatio client software, see http://www.coingen.io.
 
 License
 -------
